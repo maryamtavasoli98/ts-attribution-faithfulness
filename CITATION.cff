@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Are feature attributions faithful for time-series forecasters? Deletion/insertion tests on ETTh1"
+authors:
+  - family-names: Tavasoli
+    given-names: Maryam
+    orcid: "https://orcid.org/0009-0006-3535-4724"
+repository-code: "https://github.com/maryamtavasoli98/ts-attribution-faithfulness"
+license: MIT
+date-released: 2026-11-24

@@ -1,0 +1,23 @@
+{
+ "rows_used": 14400,
+ "channels": [
+  "HUFL",
+  "HULL",
+  "MUFL",
+  "MULL",
+  "LUFL",
+  "LULL",
+  "OT"
+ ],
+ "target": "OT",
+ "split_rows": {
+  "train": 8640,
+  "val": 2880,
+  "test": 2880
+ },
+ "test_windows": 2857,
+ "target_mean_train": 17.12826156616211,
+ "target_std_train": 9.176490783691406,
+ "lookback": 96,
+ "horizon": 24
+}
